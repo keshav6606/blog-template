@@ -71,6 +71,10 @@ export default function RootLayout({ children }) {
   }`}
         </Script>
         <Header />
+
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8615789090438802"
+     crossorigin="anonymous"></script>
+          
         {children}
         <Footer />
       </body>
