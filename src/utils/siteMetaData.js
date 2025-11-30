@@ -19,7 +19,5 @@ const siteMetadata = {
     locale: 'en-US',
   }
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8615789090438802"
-     crossorigin="anonymous"></script>
-  
+
   module.exports = siteMetadata
